@@ -53,7 +53,6 @@
 
 ## 📬 Контакты
 
-- **GitHub:** https://github.com/your_github_username  
 - **HH:** [резюме Аналитик данных (junior / стажер)](https://yablonovskiy01.hh.ru/resume/f5026cf5ff0fa66a9a0039ed1f5a56617a4359)  
 - **Telegram:**[@JF_Yukka](https://t.me/JF_Yukka)
 ---
